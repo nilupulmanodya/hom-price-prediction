@@ -17,3 +17,6 @@ This was a ML project for the regression problem to predict the estimated price 
 home-price-prediction/server/
 
     ./server.py
+   
+### Notebook
+<p>Jupyter Notebook for this project can be found <a href="https://github.com/nilupulmanodya/machine-learning-projects/tree/main/home-price-prediction">here</a></p>
